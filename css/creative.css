@@ -8551,6 +8551,7 @@ button.bg-dark:focus {
 .mb-4,
 .my-4 {
   margin-bottom: 1.5rem !important;
+  text-align: left !important;
 }
 
 .ml-4,
